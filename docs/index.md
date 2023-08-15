@@ -1,8 +1,6 @@
-# 酒井科协暑培 4.0：贵系漫游指南
+# 酒井科协暑培：贵系漫游指南
 
 2023/7/9 - 2023/8/13
-
-这里是 2023 酒井科协暑培的课程主页。日后，我们将在此集中发布所有课程的课前准备材料、课程讲义、课后作业等各种内容。敬请关注！:partying_face:
 
 :lollipop: **宣传推送：**[酒井科协暑培 4.0：贵系漫游指南](https://mp.weixin.qq.com/s/2b163EGSt4KyYjDavOPyzQ)
 
@@ -10,44 +8,7 @@
 
 :movie_camera: **回放合集：**所有课程的回放均会在 [哔哩哔哩](https://space.bilibili.com/588598994/channel/collectiondetail?sid=1543912) 上传。
 
-:clock3: **直播时间：**除 Unity 课程外，所有课程均在晚上 19:30 开始，Unity 课程在晚上 20:00 开始。
-
 -----
-
-## :warning: BOSS 关：前后端联合作业
-
-惴惴不安的黑夜笼罩着，寂静中弥漫着一股莫名的不安。突然，一段文字在你的眼前如鬼魅般出现，如同夜幕中的一抹刺眼之光，令人毛骨悚然。
-
-[:old_key: 开启奇妙冒险](/final-hw){ .md-button }
-
-## :space_invader: 8 月 13 日：Unity 脚本
-
-### 课前准备
-
-学习 Unity 的同志们，请在明天上课前阅读：
-
-- [Monobehavior Flowchart](https://docs.unity3d.com/2017.3/Documentation/uploads/Main/monobehaviour_flowchart.svg)
-- [A Simple Explanation of What a WebSocket is](https://www.wallarm.com/what/a-simple-explanation-of-what-a-websocket-is)
-
-另请了解 JSON 文件是如何记录信息的，有哪些层次关系。
-
-### 课程讲义 & 课后作业
-
-:movie_camera: [课程回放](https://www.bilibili.com/video/BV1344y1c78H)
-
-:memo: [讲义](/pdfs/unity-4.pdf)
-
-:books: [作业](https://github.com/sast-summer-training-2023/sast2023-unity)
-
-## :space_invader: 8 月 9 日：Unity 动画
-
-### 课程讲义 & 课后作业
-
-:movie_camera: [课程回放](https://www.bilibili.com/video/BV1hj411z7y3)
-
-:memo: [讲义](/pdfs/unity-3.pdf)
-
-:books: [作业](https://github.com/sast-summer-training-2023/sast2023-unity)
 
 ## :atom_symbol: 8 月 7 日：React
 
@@ -62,16 +23,6 @@
 :memo: [讲义](/frontend/react)
 
 :books: [作业](https://github.com/sast-summer-training-2023/sast-react)
-
-## :space_invader: 8 月 5 日：Unity 坐标系统与材质
-
-### 课程讲义 & 课后作业
-
-:movie_camera: [课程回放](https://www.bilibili.com/video/BV1nu411p7kt)
-
-:memo: [讲义](/pdfs/unity-2.pdf)
-
-:books: [作业](https://github.com/sast-summer-training-2023/sast2023-unity)
 
 ## :thinking_face: 8 月 4 日：JS & TS (2)
 
@@ -104,22 +55,6 @@
 :memo: [讲义](/backend/crawler)
 
 :books: [作业](/backend/crawler/#_5)
-
-## :space_invader: 8 月 2 日：Unity 基本概念
-
-### 课前准备
-
-请参考 [Unity 环境配置](/game/env) 配置 Unity 环境。
-
-### 课程讲义 & 课后作业
-
-:movie_camera: [课程回放](https://www.bilibili.com/video/BV1rM4y1H7C1)
-
-:memo: [Unity 讲义](/pdfs/unity-1.pdf)
-
-:memo: [C# 讲义](/pdfs/csharp-1.pdf)
-
-:books: [作业](https://github.com/sast-summer-training-2023/sast2023-unity)
 
 ## :thinking_face: 8 月 1 日：JS & TS (1)
 
@@ -361,4 +296,3 @@ pip install numpy matplotlib
 :memo: [Warmup 讲义](pdfs/warmup.pdf)
 
 :memo: [Linux & Git 课程讲义](pdfs/linux-handout.pdf)
-

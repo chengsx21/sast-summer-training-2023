@@ -1,6 +1,6 @@
 # Basics
 site_name: 酒井科协暑培 2023
-repo_url: https://github.com/sast-summer-training-2023/sast-summer-training-2023.github.io
+repo_url: https://github.com/chengsx21/sast-summer-training-2023
 repo_name: SAST Summer Training 2023
 
 theme:
@@ -52,8 +52,6 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  # - pymdownx.emoji:
-  #     emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
@@ -85,7 +83,6 @@ markdown_extensions:
 nav:
   - 首页:
     - index.md
-    - 前后端联合作业: final-hw.md
     - 资源链接: links.md
   - 基础:
     - basic/index.md
@@ -112,7 +109,3 @@ nav:
     - Android: frontend/android.md
     - JS & TS: frontend/js-ts.md
     - React: frontend/react.md
-  - 游戏:
-    - game/index.md
-    - Unity: game/unity.md
-    - 环境配置: game/env.md
